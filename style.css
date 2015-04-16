@@ -1,0 +1,34 @@
+/*
+	Theme Name: Centric Theme
+	Theme URI: http://my.studiopress.com/themes/centric/
+	Description: A mobile responsive and HTML5 theme built for the Genesis Framework.
+	Author: StudioPress, Customized by Amy Kvistad
+	Author URI: http://www.studiopress.com/
+	Author URI: http://www.amykvistad.com/
+	
+	Version: 1.1
+ 
+	Tags: black, green, orange, purple, red, yellow, white, one-column, two-columns, three-columns, responsive-layout, custom-menu, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, premise-landing-page
+ 
+	Template: genesis
+	Template Version: 2.1
+ 
+	License: GPL-2.0+
+	License URI: http://www.opensource.org/licenses/gpl-license.php
+*/
+
+.body-custom-image {
+	background: url(images/page-header-generic-tall.jpg) top center no-repeat!important;
+	}
+	
+.body-custom-image-contact {
+	background: url(images/page-header-contact-tall.jpg) top center no-repeat!important;
+}
+
+.body-custom-image-services {
+	background: url(images/page-header-services-tall.jpg) top center no-repeat!important;
+}
+
+.body-custom-image-gallery {
+	background: url(images/page-header-gallery-tall.jpg) top center no-repeat!important;
+}
