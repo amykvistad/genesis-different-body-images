@@ -34,5 +34,3 @@ function sp4_body_class( $classes ) {
 		$classes[] = 'body-custom-image-gallery';
 		return $classes;
 }
-
-);
